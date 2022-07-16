@@ -1,0 +1,12 @@
+Instrunciones:
+
+Proyecto Realizado con XAMPP
+
+importar base de datos = CRUD.sql en phpmyadmin
+
+Descargar la carpeta CRUD en la carpeta correspondiente de xampp (xampp/htdocs...)
+
+
+
+Adán Josué Padilla Baeza
+
